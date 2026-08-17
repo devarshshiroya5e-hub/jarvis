@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS",
+  "description": "Personal AI Desktop Assistant with Windows PC control, bilingual voice interaction (English/Hindi), system telemetry, fast command router, memory store, and automations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
